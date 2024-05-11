@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="game_name_color">#FFC29E</color>
+    <color name="score_color">#FFFFFF</color>
+    <color name="start_button_color">#E37238</color>
+    <color name="start_button_text_color">#071A28</color>
+    <color name="high_scores_button_color">#E27238</color>
+    <color name="high_scores_button_text_color">#121111</color>
+    <color name="back_button_color">#218591</color>
+    <color name="back_button_text_color">#772711</color>
+    <color name="high_score_text_color">#151414</color>
+    <color name="high_score_background_color">#83102B2E</color>
+    <color name="high_score_background_tint_color">#218490</color>
+</resources>
